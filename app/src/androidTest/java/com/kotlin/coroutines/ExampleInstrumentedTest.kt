@@ -1,4 +1,4 @@
-package ltd.apps.kotlincoroutines
+package com.kotlin.coroutines
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

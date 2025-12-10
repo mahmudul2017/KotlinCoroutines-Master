@@ -1,4 +1,4 @@
-package ltd.apps.kotlincoroutines
+package com.kotlin.coroutines
 
 import org.junit.Test
 
